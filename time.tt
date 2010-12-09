@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title>Time</title>
+  </head>
+  <body>
+    <h1>Time</h1>
+    <p>The time is: [% time %].</p>
+  </body>
+</html>
